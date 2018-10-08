@@ -1,2 +1,2 @@
 # ARM-bare-bones
-Simple startup code template for STM32 ARM MCU 
+Simple startup code for STM32 ARM MCU that can be used as a template for further development
